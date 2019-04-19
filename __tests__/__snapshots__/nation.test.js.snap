@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nation Nation basic render 1`] = `
+Array [
+  <h1>
+    Nation !
+  </h1>,
+  <Content />,
+]
+`;

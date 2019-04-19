@@ -1,0 +1,23 @@
+.content__notice {
+	display: flex;
+	padding: 1em 0;
+}
+
+.content__notice__photo {
+	flex-basis: 50%;
+	border-radius: 0.5em;
+	overflow: hidden;
+}
+
+.content__notice__photo img{
+	width: 100%;
+}
+
+.content__notice__body {
+	padding-left: 0.5em;
+	flex-basis: 50%;
+
+	& h2, h3, p {
+		margin: 0.25em 0;
+	}
+}
